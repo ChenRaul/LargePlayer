@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">大屏播放器</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <!-- app安装包的存放路径 -->
+    <string name="app_download_filepath">/LargeScreen/appdownload/</string>
+    <!-- 终端升级的安装包的存放路径 -->
+    <string name="terminal_download_filepath">/LargeScreen/terminaldownload/</string>
+    <!--下载的节目资源的zip压缩包存放路径  -->
+    <string name="program_zipfile_path">/LargeScreen/programzip/</string> 
+    <!--解压后节目资源的存放路径  -->
+     <string name="program_file_path">/LargeScreen/playProgram/</string>
+    <!-- 解压后电子阅报资源存放路径 --> 
+	<string name="News_zipfile_path">/LargeScreen/news/</string>
+	<!-- U盘节目资源的zip压缩包存放路径 -->
+	<string name="Usb_zipfile_path">/LargeScreen/playProgram/</string>
+	<!-- 闪屏文件的存放位置 -->
+	<string name="splashImg_path">/LargeScreen/splashImg/</string>
+	<!-- 视频垫片的存放位置 -->
+	<string name = "video_gasket_path">/LargeScreen/videoGasket/</string>
+</resources>
